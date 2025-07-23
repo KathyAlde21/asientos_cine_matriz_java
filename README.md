@@ -23,6 +23,6 @@
 - El valor total de cada una de las tres zonas.
 - Un mensaje indicando si la suma de la zona superior e inferior es menor que la diagonal principal, o si no se cumple la condición.
 
-**<h3>:purple_book: Ejemplo de Salida:</h3>**
+**<h3>:book: Ejemplo de Salida:</h3>**
 
 <img src="./img/tabla_asientos_cine.png" alt="" style="width: 80%;">
